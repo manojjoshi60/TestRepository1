@@ -9,7 +9,7 @@
   </parent>
   
   <!--groupId>com.manoj</groupId-->
-  <artifactId>TestRepository1</artifactId>
+  <artifactId>Java_Project1</artifactId>
   <version>1.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 </project>
